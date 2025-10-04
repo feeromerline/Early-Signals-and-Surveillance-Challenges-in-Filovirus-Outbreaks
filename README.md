@@ -1,1 +1,2 @@
-This is the code for the MSc Project Report "Early Signals and Surveillance Challenges in Filovirus Outbreaks", submitted in part fulfillment of the requirements for the degree of MSc Control of Infectious Diseases September 2025.
+Here you can find the full MSc Project Report "Early Signals and Surveillance Challenges in Filovirus Outbreaks", submitted in part fulfillment of the requirements for the degree of MSc Control of Infectious Diseases September 2025. Once it is publicly available on the LSHTM library website, I will include that link as well.
+You will also be able to find a file with just the code, which can be run as-is in R.
